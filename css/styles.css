@@ -1,0 +1,214 @@
+
+
+#title{
+  background-color: #ff4c68;
+  padding: 3% 15%;
+}
+@media(max-width:993px) {
+#title{
+  text-align: center;
+}
+
+}
+
+
+
+.container-fluid{
+  padding-bottom: 100px;
+}
+
+#features{
+  background-color: white;
+  position: relative;
+  /* bottom: 80px; */
+  /* z-index: 1; */
+
+}
+
+.down1{
+font-family: 'Montserrat', sans-serif;
+}
+.down2{
+font-family: 'Montserrat', sans-serif;
+}
+.intro{
+font-family: 'Montserrat', sans-serif;
+  font-size: 3.8rem;
+  color: white;
+  font-weight: bolder;
+  line-height: 1.5;
+}
+
+/* Navigartion baer */
+#ttl{
+  font-family: "Ubuntu", sans-serif;
+  font-weight: bold;
+  font-size: 2.0rem;
+}
+
+#roww{
+  margin-top: 4.5rem;
+}
+
+.nav-item{
+  padding: 0 18px;
+}
+
+.nav-link{
+  font-size: 1.2rem;
+  font-family: "Montserrat-Black",sans-serif;
+  font-weight: lighter;
+}
+
+.download-btn{
+margin: 5% 3% 5% 0;
+}
+
+
+.titleimg{
+
+  transform: rotate(25deg);
+  width: 60%;
+  position: absolute;
+  left: 25%;
+
+}
+
+@media(max-width:993px) {
+  .titleimg{
+    position: static;
+    transform: rotate(0);
+  }
+
+
+}
+
+
+
+.feat{
+  text-align: center;
+  padding: 3% 15%;
+}
+
+.circ{
+  color: #ff4c95;
+}
+.circ:hover{
+color: #ff4c68;
+}
+.heart{
+
+    color: #ff4c95;
+}
+.heart:hover{
+
+    color: #ff4c68;
+}
+.correct{
+
+    color: #ff4c95;
+
+  }
+  .correct:hover{
+
+      color: #ff4c68;
+
+    }
+
+
+
+
+
+    /* testimonial section */
+
+
+
+    #testimonials{
+      color: #fff;
+      background-color: #ff4c95;
+      text-align: center;
+
+    }
+
+    .cr-img{
+      width: 10%;
+      border-radius: 100%;
+    }
+    .carousel-item{
+
+        padding: 7% 15%;
+    }
+
+
+    /* press section */
+
+    #press{
+      text-align: center;
+      background-color: #ff4c95;
+    }
+    .pressimg{
+      width: 15%;
+      margin: 20px 20px 50px;
+    }
+
+
+
+
+
+
+    /* Csrddesck? */
+
+
+.card{
+  margin: 20px 20px;
+}
+    /* #cd{
+text-align: center;
+      padding: 100px;
+    } */
+
+    #pricing{
+      padding: 7% 10%;
+    }
+    .pricingcol{
+      text-align: center;
+    }
+    .pricing-ttll{
+      font-weight: bold;
+      font-size: 3.5rem;
+
+    }
+
+
+
+
+    /* cta */
+
+
+    #cta{
+      color: white;
+      padding: 7% 10%;
+      text-align: center;
+      background-color: #ff4c68;
+    }
+
+    #ftl{
+      font-weight: bold;
+      font-family: "Montserrat",serif;
+      font-size: 5.5rem;
+    }
+    .btndown{
+      margin: 10px 10px;
+    }
+
+
+/* footer */
+
+#footer{
+  margin: 7% 15%;
+  text-align: center;
+}
+
+.socialicon{
+  margin: 20px 10px;
+}
